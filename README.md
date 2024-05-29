@@ -1,0 +1,2 @@
+# sobics
+elég komoly
